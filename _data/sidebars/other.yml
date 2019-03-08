@@ -27,16 +27,16 @@ entries:
       url: /BOADocProcess_UpdateOnlineHelp.html#addcslinks
 
     - title: Technical Writer Drafts content in Flare bookmark
-      url: /BOADocProcess_DSPDocWorkflow.html#draftcontent
+      url: /BOADocProcess_Workflow_InProcess.html#draftcontent
 
     - title: Commit updates locally bookmark
-      url: /BOADocProcess_DSPDocWorkflow.html#commitlocally
+      url: /BOADocProcess_Workflow_InProcess.html#commitlocally
 
     - title: Open a pull request for a peer reviewer to review your work bookmark
-      url: /BOADocProcess_DSPDocWorkflow.html#openPR
+      url: /BOADocProcess_Workflow_InProcess.html#openPR
 
     - title: Peer Reviews Content in Flare bookmark
-      url: /BOADocProcess_DSPDocWorkflow.html#peerreview
+      url: /BOADocProcess_Workflow_PeerReview.html#peerreview
 
     - title: Update Document Properties bookmark
       url: /BOADocProcess_DevManuals.html#updatedocprop

@@ -56,10 +56,10 @@ Follow these steps to update the install manuals:
 * **Revision Description -** the description of the changes made. Includ elinks to topics where applicable
 * **Associated JIRA Tickets -** a list of the JIRA tickets that contain changes reflected in the manual, if applicable
 8.  The TW sets the **Documentation Status** field of the installation manual epic Jira issue to **Peer Review** and requests a peer review from another tech writer on the team.
-    {% include note.html content="See the 'Open a pull request for a peer reviewer to review your work' section of the [DSP Documentation Workflow][BOADocProcess_DSPDocWorkflow] page for more information on this process. The process for the Install Manuals is identical, except that for the install manuals the **base** branch will be the **master** branch and the **compare** branch will be the **staging** branch you are making your updates on." %}
+    {% include note.html content="See the 'Open a pull request for a peer reviewer to review your work' section of the [Workflow - Peer Review][BOADocProcess_Workflow_PeerReview] page for more information on this process. The process for the Install Manuals is identical, except that for the install manuals the **base** branch will be the **master** branch and the **compare** branch will be the **staging** branch you are making your updates on." %}
 9.  The Peer reviewer makes any necessary edits in Flare and merges the Staging branch with the Master branch.
     {% include note.html content="The reviewing tech writer does not need to review content, because collaborators must address and approve all content changes during the collaboration step." %}
-    {% include note.html content="See the 'Peer Review: Peer Reviews Content in Flare' section of the [DSP Documentation Workflow][BOADocProcess_DSPDocWorkflow] page for more information on the peer review process. The process for the Install Manuals is identical, except that the content from the Staging branches should be merged with the Master branch not the develop branch." %}
+    {% include note.html content="See [Workflow - Peer Review][BOADocProcess_Workflow_PeerReview] page for more information on the peer review process. The process for the Install Manuals is identical, except that the content from the Staging branches should be merged with the Master branch not the develop branch." %}
 10.  After the Staging branch is merged, the Tech Writer who owns the manuals for the release [updates the targets for the manuals](update-the-targets-for the-manuals), generates new Word versions and the [secured pdfs][BOADocProcess_DevManConfigGuides.html#securitysettings], saves them to the release folder, sends notification that the final manuals are ready to Support, and then closes the Jira ticket.
 
 ### Clone the dsp-install-manuals repo
@@ -121,7 +121,7 @@ To clone the dsp-install-manuals repo, follow the instructions for [cloning the 
 
 ### Make Updates in Flare
 
-To make updates in Flare follow the instructions in the 'Commit updates locally and push them to the BackOfficeAssoc GitHub Repo dsp-docs' section of the [DSP Documentation Workflow][BOADocProcess_DSPDocWorkflow].
+To make updates in Flare follow the instructions in the 'Commit updates locally and push them to the BackOfficeAssoc GitHub Repo dsp-docs' section of the [Workflow - In Process][BOADocProcess_Workflow_InProcess].
 
 {% include note.html content="Do NOT merge changes into the **master** branch without having another writer review the Pull Request." %}
 

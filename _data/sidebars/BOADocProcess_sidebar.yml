@@ -35,8 +35,28 @@ entries:
       url: /BOADocProcess_SrcsOnlineHelp.html
       output: web
 
-    - title: DSP Documentation Workflow
-      url: /BOADocProcess_DSPDocWorkflow.html
+    - title: Workflow - Status Field
+      url: /BOADocProcess_Workflow_StatusField.html
+      output: web
+
+    - title: Workflow - Not Started
+      url: /BOADocProcess_Workflow_NotStarted.html
+      output: web
+
+    - title: Workflow - In Process
+      url: /BOADocProcess_Workflow_InProcess.html
+      output: web
+
+    - title: Workflow - Peer Review
+      url: /BOADocProcess_Workflow_PeerReview.html
+      output: web
+
+    - title: Workflow - Review
+      url: /BOADocProcess_Workflow_Review.html
+      output: web
+
+    - title: Workflow - Doc Done
+      url: /BOADocProcess_Workflow_DocDone.html
       output: web
 
     - title: Update Online Help in Flare

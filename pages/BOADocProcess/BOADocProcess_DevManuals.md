@@ -105,7 +105,7 @@ When saving a document, use the naming convention [ ProductName ][ ManualTitle ]
 
 After setting up the document, the Technical Writer:
 
-1.  Updates the Documentation Status Field on the JIRA issue to In Process to reflect that research and writing is underway. Refer to [DSP Documentation Worflow][BOADocProcess_DSPDocWorkflow] for more information.
+1.  Updates the Documentation Status Field on the JIRA issue to In Process to reflect that research and writing is underway. Refer to [Workflow - Status Field][BOADocProcess_Workflow_StatusField] for more information.
 
 2.  Populates the Author and Date fields within the Document History table.
 

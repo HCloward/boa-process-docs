@@ -11,10 +11,10 @@ folder: BOADocProcess
 
 To update online help:
 
-1.  The author checks out the project files and adds the content to Flare following standards outlined in the BackOffice Associates Documentation Standards. Refer to the topics under [In Process: Technical Writer Drafts content in Flare][BOADocProcess_DSPDocWorkflow.html#draftcontent].
-2. The author commits the project files. Refer to [Commit updates locally and push them to the BackOfficeAssoc GitHub Repo dsp-docs][BOADocProcess_DSPDocWorkflow.html#commitlocally] for more information.￼
-3. The author assigns the ticket to the peer reviewer in JIRA with a Documentation Status of Peer Review. Refer to [Open a pull request for a peer reviewer to review your work][BOADocProcess_DSPDocWorkflow.html#openPR].
-4. Follow the Peer Review process described in [Peer Review: Peer Reviews Content in Flare][BOADocProcess_DSPDocWorkflow.html#peerreview].
+1.  The author checks out the project files and adds the content to Flare following standards outlined in the BackOffice Associates Documentation Standards. Refer to [WorkFlow - In Process][BOADocProcess_Workflow_InProcess.html#draftcontent].
+2. The author commits the project files. Refer to [Commit updates locally and push them to the BackOfficeAssoc GitHub Repo dsp-docs][BOADocProcess_Workflow_InProcess.html#commitlocally] for more information.￼
+3. The author assigns the ticket to the peer reviewer in JIRA with a Documentation Status of Peer Review. Refer to [Open a pull request for a peer reviewer to review your work][BOADocProcess_Workflow_InProcess.html#openPR].
+4. Follow the Peer Review process described in [Peer Review: Peer Reviews Content in Flare][BOADocProcess_Workflow_PeerReview.html#peerreview].
 
 ## Create New Topic
 
