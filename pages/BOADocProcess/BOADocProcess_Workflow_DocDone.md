@@ -51,7 +51,7 @@ To update the index.htm page:
 2. Open **index.html** in a text editor like VS Code or Atom.
 3. Around lines 68 and 86, you will see the general links to the What's New page and the Help. Add links to the new release in the same format as the prior release.
 4. Around lines 111 and 130, you will see the solex links to the What's New page and the Help. Add links to the new release in the same format as the prior release. 
-NOTE: Not every release is sent to SAP. There may be releases of BOA help without corresponding SAP help releases. 
+   {% include note.html content="Not every release is sent to SAP. There may be releases of BOA help without corresponding SAP help  releases." %} 
 5. Save your work.
 6. Stage it for commit, commit it, and push it to the remote.
 7. Build the help in jenkins to push the changes to the production site. 
