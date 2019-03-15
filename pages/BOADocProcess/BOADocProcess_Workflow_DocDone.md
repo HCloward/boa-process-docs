@@ -46,11 +46,11 @@ The build status displays in the left column under Build History.
 
 Each release the DSP Landing Page's index.htm needs to be updated with a new release links for the general and solex versions of the Help and What's New. If a user enters an invalid url for the help, this page displays, listing all available versions of the product. 
 
-To update the index.html page:
+To update the index.htm page:
 1. Open the **DSPLandingPage** folder in the Root of the **dsp-docs** directory.
 2. Open **index.html** in a text editor like VS Code or Atom.
 3. Around lines 68 and 86, you will see the general links to the What's New page and the Help. Add links to the new release in the same format as the prior release.
 4. Around lines 111 and 130, you will see the solex links to the What's New page and the Help. Add links to the new release in the same format as the prior release. 
-NOTE: Not every release is sent to SAP. There may be releases of BOA help without corresponding SAP help releaeses. 
+NOTE: Not every release is sent to SAP. There may be releases of BOA help without corresponding SAP help releases. 
 5. Save your work.
 6. Stage it for commit, commit it, and push it to the remote.
