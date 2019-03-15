@@ -54,3 +54,4 @@ To update the index.htm page:
 NOTE: Not every release is sent to SAP. There may be releases of BOA help without corresponding SAP help releases. 
 5. Save your work.
 6. Stage it for commit, commit it, and push it to the remote.
+7. Build the help in jenkins to push the changes to the production site. 
