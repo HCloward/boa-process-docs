@@ -22,7 +22,7 @@ Use the igc-jit-triage and igc-jit-triage-caps channels to report issues
 IGC™ Customer Success Tenant
 ============================
 
-Customer Success tenant is the IGC ™ site that is available for drafting
+Customer Success and the Documentation team share an Entotoa tenant that can be used for drafting
 Help content. You can get screen shots and record videos on the site.
 You can message the custsuccess\_igctenant Slack channel if you need
 access; have questions, or information about the Customer Success
