@@ -9,16 +9,16 @@ folder: IGCDocProcess
 
 Entota™ Help updates can be published anytime. When a ticket on the Kyber
 board reaches Done status, it is deployed and the related documentation
-should be published. Refer to Publish IGC™ Release Notes.
+should be published. Refer to [Publish Entota™ Release Notes][IGCDocProcess_publishRN].
 
-### To publish IGC™ Help:
+# To publish IGC™ Help:
 
 1.  You can attach a Word doc to a ticket or you can link a Google doc
-    in an IGC™ Dev team channel for review.
+    in an Entota™ Dev team channel for review.
 
 2.  Next, when Help updates are written and reviewed (if needed), inform
     the Doc Team in the appropriate Slack Channel that you are going to
-    check out IGC™ Help.
+    check out Entota™ Help.
 
 3.  [Synchronize your local repo's develop branch with the remote
     develop branch](#_Synchronize_your_local)
@@ -32,9 +32,8 @@ should be published. Refer to Publish IGC™ Release Notes.
 6.  [Peer Review updates -- changes
     necessary](#peer-review-updates-changes-necessary)
 
-[]{#_Synchronize_your_local .anchor}
 
-#### Synchronize your local repo's develop branch with the remote develop branch
+## Synchronize your local repo's develop branch with the remote develop branch
 
 1.  Right-click in your local repo folder and select **Git Bash Here**
     from the dropdown menu to open the command prompt at that location.
