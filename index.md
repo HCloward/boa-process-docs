@@ -25,3 +25,5 @@ This document describes the process the Documentation Team uses to:
 
 -   Add posts to the Data Insiders DSP Questions and Answers section
 {% include links.html %}
+
+{% include tip.html content="To make updates to this document see the [Updating the Process/Standards Docs Google doc](https://docs.google.com/document/d/1ZCFDHHCsGmTqwU5aN6lvCM0BS7HC2G54VtC77cwYnTQ/edit?usp=sharing)." %}

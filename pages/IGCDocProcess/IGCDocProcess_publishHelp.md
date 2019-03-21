@@ -6,10 +6,8 @@ sidebar: IGCDocProcess_sidebar
 permalink: IGCDocProcess_publishHelp.html
 folder: IGCDocProcess
 ---
-Publish IGC™ Help
------------------
 
-IGC™ Help updates can be published anytime. When a ticket on the Kyber
+Entota™ Help updates can be published anytime. When a ticket on the Kyber
 board reaches Done status, it is deployed and the related documentation
 should be published. Refer to Publish IGC™ Release Notes.
 
