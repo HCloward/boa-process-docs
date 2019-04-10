@@ -10,7 +10,7 @@ folder: IGCDocProcess
 To connect to the Repo for the First Time and Clone It
 
 1. Right-click the empty folder you created and select **GitBash Here**.
-2. Run the git command `git clone git\@github.com:BackOfficeAssoc/igc-ui.git`
+2. Run the git command `git clone git/@github.com:BackOfficeAssoc/igc-ui.git`
    {% include note.html content="You will be asked to enter the passphrase you entered for your SSH key." %}
    {% include note.html content="This step will clone the UI repo into your local machine." %}
 3. Open the git config file in your local directory/folder (`igc-ui/.git/config`) using Visual Studio.
